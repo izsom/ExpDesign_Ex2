@@ -1,6 +1,6 @@
 # ExpDesign_Ex2
 
-The chosen paper is the following: \ 
+The chosen paper is the following: 
 ## User-controllable Recommendation Against Filter Bubbles
 Authors: Wenjie Wang, Fuli Feng, Liqiang Nie, Tat-Seng Chua
 
